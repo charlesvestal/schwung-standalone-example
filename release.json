@@ -1,0 +1,5 @@
+{
+    "version": "0.1.0",
+    "download_url": "https://github.com/charlesvestal/schwung-standalone-example/releases/download/v0.1.0/standalone-example-module.tar.gz",
+    "install_path": "modules/tools/standalone-example"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "standalone-example",
+    "name": "Standalone Example",
+    "version": "0.1.0",
+    "description": "Example standalone tool with direct SPI access — sine synth, LEDs, display",
+    "author": "Schwung",
+    "component_type": "tool",
+    "standalone": true
+}
